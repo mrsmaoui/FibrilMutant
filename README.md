@@ -99,10 +99,10 @@ USAGE 4: Complete Protein Landscape
 	the mutation landscape of your entire protein.
 	This call will return three tables:
 		1. A table outlining the Coulomb, LJ, and Solvation energies of all your mutations
-		1. A table outlining the potential of each residue in destabilizing your protein.
-		1. A table outlining the weakest and most susceptible residues that can be used to
+		2. A table outlining the potential of each residue in destabilizing your protein.
+		3. A table outlining the weakest and most susceptible residues that can be used to
 		   destabilize your protein.
-		1. A table with amino acid positons (x-axis), and mutants (y-axis) and the protein 
+		4. A table with amino acid positons (x-axis), and mutants (y-axis) and the protein 
 		   energy caused by the mutants on each position.
 
 
